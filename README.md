@@ -156,7 +156,7 @@ ___
 | **Encode, Think, Decode: Scaling test-time reasoning with recursive latent thoughts** | arXiv | Oct 2025 | [Paper](https://arxiv.org/pdf/2510.07358) |
 | **Parallel Loop Transformer for Efficient Test-Time Computation Scaling** | arXiv | Oct 2025 | [Paper](https://arxiv.org/pdf/2510.24824) |
 | **Scaling Latent Reasoning via Looped Language Models** | arXiv | Oct 2025 | [Paper](https://arxiv.org/pdf/2510.25741) - [Page](https://ouro-llm.github.io/) - [Code](https://ouro-llm.github.io/#) |
-
+| **Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models** | arXiv | Nov 2025 | [Paper](https://arxiv.org/abs/2511.08577) - [Code](https://github.com/thu-nics/TaH) |
 
 
 ##### 🎯 Training Strategies for Recurrent Reasoning
