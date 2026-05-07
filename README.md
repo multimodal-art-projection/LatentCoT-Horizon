@@ -386,6 +386,7 @@ ___
 - [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning): a curated list of works on making LLM reasoning cheaper and faster.
 - [Efficient Reasoning Models: A Survey](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models): the companion repo to the survey, aggregating methods/benchmarks for “shorter, smaller, faster” reasoning models.
 - [Implicit Reasoning in Large Language Models: A Comprehensive Survey](https://github.com/digailab/awesome-llm-implicit-reasoning): a curated list of works on implicit reasoning in LLMs.
+- [Awesome-Latent-Refinement](https://github.com/matinaghaei/awesome-latent-refinement): a curated list of works on iterative latent reasoning, recurrent refinement, and inference-time computation.
 
 ## ♥️ Contributors
 
