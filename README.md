@@ -163,6 +163,7 @@ ___
 
 | Title | Venue | Date | Links |
 | --- | --- | --- | --- |
+| **Implicit Chain of Thought Reasoning via Knowledge Distillation** | arXiv | Nov 2023 | [Paper](https://arxiv.org/abs/2311.01460) - [Code](https://github.com/da03/implicit_chain_of_thought) |
 | **From explicit cot to implicit cot: Learning to internalize cot step by step** | arXiv | May 2024 | [Paper](https://arxiv.org/abs/2405.14838) |
 | **On the inductive bias of stacking towards improving reasoning** | NeurIPS 2024 | Jun 2024 | [Paper](https://arxiv.org/abs/2406.03149) |
 | **Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding** | arXiv | Nov 2024 | [Paper](https://arxiv.org/abs/2411.04282) - [Code](https://github.com/SalesforceAIResearch/LaTRO) |
